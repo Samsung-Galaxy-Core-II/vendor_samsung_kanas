@@ -47,6 +47,12 @@ PROPRIETARY_FILES_VENDOR := \
 	lib/egl/libGLESv1_CM_mali.so \
 	lib/egl/libGLESv2_mali.so \
 	lib/hw/gps.vendor.sc8830.so \
+	lib/hw/camera.sc8830.so \
+	lib/hw/camera2.sc8830.so \
+	lib/hw/gralloc.sc8830.so \
+	lib/hw/hwcomposer.sc8830.so \
+ 	lib/hw/sensors.sc8830.so \
+	lib/hw/sprd_gsp.sc8830.so \
 	lib/libagps_hal.so \
 	lib/libatparser.so \
 	lib/libboost.so \
